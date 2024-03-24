@@ -6,6 +6,10 @@
 - **Lien 5** : https://www.udemy.com/course/yolo-custom-object-detection/ (Juillet)
 - **Lien 6** : https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/ (Aout)
 - **Lien 7** : https://www.udemy.com/course/yolo-video-object-detection-with-python/?couponCode=KEEPLEARNING (Septmbre)
+- **Lien 8** : https://www.eni-training.com/portal/client/mediabook/home
+
+  ![image](https://github.com/hrhouma/YOLO1/assets/10111526/d7dcf8c7-358a-4784-95e9-6e80e4c82b5e)
+
   
 
 
