@@ -13,4 +13,59 @@
   
 
 
+1. **YOLOv8: Object Detection, Tracking & Web App in Python 2023**
+   - **Nombre d'étudiants :** 2,824
+   - **Note moyenne :** 4.2
+   - **Dernière mise à jour :** Février 2024
+   - **Langue :** Anglais, Coréen [Auto]
+
+2. **YOLOv7 YOLOv8 YOLOv9 - Deep Learning Course**
+   - **Nombre d'étudiants :** 2,692
+   - **Note moyenne :** 4.8
+   - **Dernière mise à jour :** Mars 2024
+   - **Langue :** Anglais
+
+3. **Train YOLO for Object Detection with Custom Data**
+   - **Nombre d'étudiants :** 6,499
+   - **Note moyenne :** 4.3
+   - **Dernière mise à jour :** Novembre 2023
+   - **Langue :** Anglais, Chinois simplifié [Auto]
+
+4. **YOLO: Custom Object Detection & Web App in Python**
+   - **Nombre d'étudiants :** 1,763
+   - **Note moyenne :** 4.9
+   - **Dernière mise à jour :** Mars 2023
+   - **Langue :** Anglais
+
+5. **YOLO-NAS The Ultimate Course for Object Detection & Tracking**
+   - **Nombre d'étudiants :** 320
+   - **Note moyenne :** 4.5
+   - **Dernière mise à jour :** Décembre 2023
+   - **Langue :** Anglais
+
+6. **YOLOv8: Video Object Detection with Python on Custom Dataset**
+   - **Nombre d'étudiants :** 75
+   - **Note moyenne :** 4.3
+   - **Dernière mise à jour :** Mars 2024
+   - **Langue :** Anglais
+
+7. **Video Segmentation with Python using Deep Learning Real-Time**
+   - **Nombre d'étudiants :** 46
+   - **Note moyenne :** 4.8
+   - **Dernière mise à jour :** Mars 2024
+   - **Langue :** Anglais
+
+8. **YOLO v5: Label, Train and Test**
+   - **Nombre d'étudiants :** 27
+   - **Note moyenne :** 4.7
+   - **Dernière mise à jour :** Novembre 2023
+   - **Langue :** Anglais
+
+9. **Computer Vision With Deep Learning**
+   - **Nombre d'étudiants :** 26
+   - **Note moyenne :** 5.0
+   - **Dernière mise à jour :** Septembre 2023
+   - **Langue :** Arabe
+
+.
   
